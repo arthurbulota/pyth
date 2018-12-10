@@ -14,7 +14,7 @@ Biržos taip pat atlieka ir `market maker`vaidmenį didindamos bendrą likvidum�
 
 ## Problema
 
-`Market maker` užsiima reguliariu `SL hunt` ir `order book`pravalymu. Nereguliuojamoje rinkoje tai įprastas procesas. O pakilimo laikotarpiu buvęs funkcionalumas `trailing stop-loss` atjungtas kaip per daug prekybos platformą apkraunantis funckionalumas. 
+`Market maker` užsiima reguliariu `SL hunt` ir `order book`pravalymu. Nereguliuojamoje rinkoje tai įprastas procesas. O pakilimo laikotarpiu buvęs funkcionalumas `trailing stop-loss` atjungtas kaip per daug prekybos platformą apkraunantis funkcionalumas. 
 
 ---
 
@@ -29,7 +29,7 @@ Biržos taip pat atlieka ir `market maker`vaidmenį didindamos bendrą likvidum�
     * `P/L`
     * `Roll over fees` 
     * `Exposure time`
-    * `Current Spred`
+    * `Current Spread`
 
 2. Realiu laiku sukurti ir įvykdyti TP/SL poziciją esant tinkamoms iš anksto apibrėžtoms sąlygoms:
     * `Spike` atsižvelgiant į laiko ir kainos pokyčio intervalą sugeneruoti TP/SL poziciją
