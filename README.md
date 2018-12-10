@@ -52,7 +52,7 @@ Biržos taip pat atlieka ir `market maker`vaidmenį didindamos bendrą likvidum�
 
 <!--***
 
-* asd asd
+* asd
 + asdasd
 - asdasd
     * asd
